@@ -1,0 +1,10 @@
+{
+  "monthly_salary": 80000,
+  "fixed_expenses": 25000,
+  "current_savings": 120000,
+  "monthly_emi": 0,
+  "risk_level": "moderate",
+  "goal_name": "Laptop",
+  "goal_amount": 70000,
+  "goal_deadline": "2026-12-01"
+}

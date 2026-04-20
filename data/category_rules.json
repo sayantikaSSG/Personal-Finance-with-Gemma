@@ -1,0 +1,13 @@
+{
+  "zomato": "Food",
+  "swiggy": "Food",
+  "uber": "Transport",
+  "ola": "Transport",
+  "amazon": "Shopping",
+  "netflix": "Entertainment",
+  "grocery": "Food",
+  "electricity": "Utilities",
+  "atm": "Cash",
+  "freelance": "Freelance",
+  "salary": "Salary"
+}

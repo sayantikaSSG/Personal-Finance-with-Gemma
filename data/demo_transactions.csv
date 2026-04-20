@@ -1,0 +1,12 @@
+date,description,amount,type,category
+2026-01-03,Zomato,-450,expense,Food
+2026-01-05,Salary,80000,income,Salary
+2026-01-06,Uber,-220,expense,Transport
+2026-01-09,Amazon,-1800,expense,Shopping
+2026-01-10,Netflix,-499,expense,Entertainment
+2026-01-12,Grocery Store,-1200,expense,Food
+2026-01-15,ATM Withdrawal,-5000,expense,Cash
+2026-01-18,Swiggy,-350,expense,Food
+2026-01-20,Ola,-180,expense,Transport
+2026-01-25,Freelance Payment,15000,income,Freelance
+2026-01-28,Electricity Bill,-2500,expense,Utilities
